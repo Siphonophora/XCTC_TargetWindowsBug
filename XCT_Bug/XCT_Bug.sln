@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCT_Bug.iOS", "XCT_Bug\XCT_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCT_Bug", "XCT_Bug\XCT_Bug\XCT_Bug.csproj", "{D55C271D-9D2B-4852-B9F2-548CB8DA0831}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{58733BFA-E005-44F9-B6C7-58CF782622AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,18 @@ Global
 		{D55C271D-9D2B-4852-B9F2-548CB8DA0831}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{D55C271D-9D2B-4852-B9F2-548CB8DA0831}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{D55C271D-9D2B-4852-B9F2-548CB8DA0831}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Release|iPhone.Build.0 = Release|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{58733BFA-E005-44F9-B6C7-58CF782622AD}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
